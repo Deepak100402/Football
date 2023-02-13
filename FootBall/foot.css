@@ -1,0 +1,135 @@
+{
+    background-image: url("full-stadium-neoned-colorful-flashlights-background-full-stadium-neoned-colorful-flashlights-background-flyer-197148262.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    }
+    h1{
+        text-align: center;
+        font-size: xx-large;
+        color: rgb(0, 0, 4);
+    }
+    /* #vs{
+        text-align: center;
+        font-size: xx-large;
+        color: white;
+        display:inline-block;
+        background-color: crimson;
+    } */
+    #box{
+        width:700px;
+        height: 550px;
+        margin: 0 auto;
+        border: 2px solid rgb(0, 0, 0);
+        border-radius: 0%;
+        background-color: rgb(2, 18, 18);
+    
+    }
+    
+    #fcb{
+        height: 40%;
+        width: 40%;
+        border-radius: 80%;
+        margin-top: 50px;
+        display: inline-block;
+        margin-left: 50px;
+    }
+    #fcm{
+        height: 40%;
+        width: 40%;
+        border-radius: 50%;
+        margin-top: 50px;
+        margin-left: 50px;
+            display: inline-block;
+    
+    }
+    #buttons{
+        justify-content: center;
+       
+        margin: 0 auto;
+    }
+    #submit,#reset{
+        background-color: aqua;
+        border-color: rgb(0, 0, 0);
+        border-radius: 25%;
+        margin-left: 50px;
+        margin-right: 50px;
+        padding:2px 40px 2px 40px;
+        font-size: 15px;
+        text-align: center;
+        display:inline-block;
+        
+    }
+    .team{
+        justify-content: space-evenly;
+        margin-left: 5%;
+        margin-top: 0%;
+    }
+    
+    #circle{
+        width: 25px;
+        height: 25px;
+        border:2px solid rgb(61, 2, 255);
+        display: inline-block;
+        border-radius: 50%;
+        margin-top:0%
+    }
+    .n{
+        display: flex;
+       width:700px;
+        color: rgb(22, 237, 245);
+         
+        text-align: center;
+    }
+    #nn
+    {
+        margin-left: 100px;  
+    }
+    #nnn
+    {
+        margin-left: 200px; 
+    }
+    
+    #player1{
+        margin-left: 12%;
+        margin-top: 0%;
+        display: inline-block;
+    }
+    .center{
+        color: red;
+        width: 50px;
+        /* height: 10px; */
+        margin-bottom: 0%;
+        margin-left: 11%;
+        display: inline-block;
+    }
+    #team1score{
+        display: inline-block;
+        color: blanchedalmond;
+        font-size: larger;
+    }
+    #cur{
+        display: inline-block;
+        color: blanchedalmond;
+        font-size: larger;
+    }
+    #team2score{
+        display: inline-block;
+        color: blanchedalmond;
+        font-size: larger;
+    }
+    #player2{
+        margin-left: 6%;
+        margin-top: 0%;
+        display: inline-block;
+        margin-right: 10px;
+    }
+    .result
+    {
+        
+        text-align: center;
+        color: rgb(8, 0, 255);
+        text-decoration-color: blue;
+        font-size: x-large;
+        
+    }
